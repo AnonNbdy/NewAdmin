@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewAdmin</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="not_a_registered_user_login">Not a Registered User? Login.</string>
+    <string name="logout">Logout</string>
+    <string name="already_registered_login">Already Registered? Login</string>
+    <string name="register">Register</string>
+</resources>
