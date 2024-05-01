@@ -6,4 +6,7 @@
     <string name="logout">Logout</string>
     <string name="already_registered_login">Already Registered? Login</string>
     <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="appointments">Appointments</string>
+    <string name="blog">Blog\n</string>
 </resources>

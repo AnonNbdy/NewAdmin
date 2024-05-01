@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/home"
+        android:icon ="@drawable/baseline_home_24"
+        android:title="@string/home" />
+<item android:id="@+id/Appointments"
+    android:icon="@drawable/baseline_calendar_month_24"
+    android:title="@string/appointments" />
+    <item android:id="@+id/Blog"
+        android:icon="@drawable/baseline_edit_note_24"
+        android:title="@string/blog" />
+
+</group>
+</menu>
